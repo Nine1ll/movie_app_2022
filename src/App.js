@@ -10,7 +10,6 @@ function Food({name, picture, rating}){
     </div>
   );
 }
-//what the fuck are he doing?
 const foodILike =[
   {
     id : 1,
